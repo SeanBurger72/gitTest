@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 hola dra. Ofelia , Hola Francisco soy Sean
+=======
+Hola Mundo Git!!!! Haciendo un cambio!!!
+>>>>>>> 165700654febb8b6ccd5cfd4efab3347aaa1d67c
